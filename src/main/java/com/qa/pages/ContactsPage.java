@@ -6,5 +6,7 @@ public class ContactsPage {
 		
 		System.out.println("contacts logo");
 	}
-
+        public void contactsTitle(){
+		System.out.println("contacts title");
+	}
 }
